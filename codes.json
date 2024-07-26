@@ -1,83 +1,83 @@
 {
-  "80KVISITS!": {
-    "Reward": {
-        "Bullet Colors": 1,
-        "Gun Skins":  2,
-        "Knife Skins": 2,
-        "Streak Tags": 5,
-        "Stomp Effects": 3
-    }
-  },
-  "100KVISITS!": {
-   "Reward": {
-        "Bullet Colors": 1,
-        "Gun Skins":  2,
-        "Knife Skins": 2,
-        "Streak Tags": 5,
-        "Stomp Effects": 3
-    }
-  },
-  "FPSLAGFIXED!": {
-    "Reward": {
-        "Bullet Colors": 1,
-        "Gun Skins":  2,
-        "Knife Skins": 2,
-        "Streak Tags": 5,
-        "Stomp Effects": 3
-    }
-  },
-  "SORRY!": {
-   "Reward": {
-        "Bullet Colors": 1,
-        "Gun Skins":  2,
-        "Knife Skins": 2,
-        "Streak Tags": 5,
-        "Stomp Effects": 3
-    }
-  },
-  "OG DHAT!": {
-    "Reward": {
-        "Bullet Colors": 1,
-        "Gun Skins":  2,
-        "Knife Skins": 2,
-        "Streak Tags": 5,
-        "Stomp Effects": 3
-    }
-  },
-  "300FAV!": {
-    "Reward": {
-        "Bullet Colors": 1,
-        "Gun Skins":  2,
-        "Knife Skins": 2,
-        "Streak Tags": 5,
-        "Stomp Effects": 3
-    }
-  },
-  "secretcodefromblade!": {
-    "Reward": {
-        "Bullet Colors": 1,
-        "Gun Skins":  2,
-        "Knife Skins": 2,
-        "Streak Tags": 5,
-        "Stomp Effects": 3
-    }
-  },
-  "300LIKES!": {
-   "Reward": {
-        "Bullet Colors": 1,
-        "Gun Skins":  2,
-        "Knife Skins": 2,
-        "Streak Tags": 5,
-        "Stomp Effects": 3
-    }
-  },
-  "900MEMBERS!": {
-    "Reward": {
-        "Bullet Colors": 1,
-        "Gun Skins":  2,
-        "Knife Skins": 2,
-        "Streak Tags": 5,
-        "Stomp Effects": 3
-    }
-  }
+   "80KVISITS!":{
+      "Reward":{
+         "Bullet Colors":1,
+         "Gun Skins":2,
+         "Knife Skins":2,
+         "Streak Tags":5,
+         "Stomp Effects":3
+      }
+   },
+   "100KVISITS!":{
+      "Reward":{
+         "Bullet Colors":1,
+         "Gun Skins":2,
+         "Knife Skins":2,
+         "Streak Tags":5,
+         "Stomp Effects":3
+      }
+   },
+   "FPSLAGFIXED!":{
+      "Reward":{
+         "Bullet Colors":1,
+         "Gun Skins":2,
+         "Knife Skins":2,
+         "Streak Tags":5,
+         "Stomp Effects":3
+      }
+   },
+   "SORRY!":{
+      "Reward":{
+         "Bullet Colors":1,
+         "Gun Skins":2,
+         "Knife Skins":2,
+         "Streak Tags":5,
+         "Stomp Effects":3
+      }
+   },
+   "OG DHAT!":{
+      "Reward":{
+         "Bullet Colors":1,
+         "Gun Skins":2,
+         "Knife Skins":2,
+         "Streak Tags":5,
+         "Stomp Effects":3
+      }
+   },
+   "300FAV!":{
+      "Reward":{
+         "Bullet Colors":1,
+         "Gun Skins":2,
+         "Knife Skins":2,
+         "Streak Tags":5,
+         "Stomp Effects":3
+      }
+   },
+   "secretcodefromblade!":{
+      "Reward":{
+         "Bullet Colors":1,
+         "Gun Skins":2,
+         "Knife Skins":2,
+         "Streak Tags":5,
+         "Stomp Effects":3
+      }
+   },
+   "300LIKES!":{
+      "Reward":{
+         "Bullet Colors":1,
+         "Gun Skins":2,
+         "Knife Skins":2,
+         "Streak Tags":5,
+         "Stomp Effects":3
+      }
+   },
+   "900MEMBERS!":{
+      "Reward":{
+         "Bullet Colors":1,
+         "Gun Skins":2,
+         "Knife Skins":2,
+         "Streak Tags":5,
+         "Stomp Effects":3
+      }
+   }
 }
