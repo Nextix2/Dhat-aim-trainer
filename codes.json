@@ -1,6 +1,6 @@
 {
   "80KVISITS!": {
-    "Reward": [
+    "Reward": {
       [
         "Bullet Colors",
         1
@@ -21,10 +21,10 @@
         "Stomp Effects",
         3
       ]
-    ]
+    }
   },
   "100KVISITS!": {
-    "Reward": [
+    "Reward": {
       [
         "Bullet Colors",
         1
@@ -45,10 +45,10 @@
         "Stomp Effects",
         3
       ]
-    ]
+    }
   },
   "FPSLAGFIXED!": {
-    "Reward": [
+    "Reward": {
       [
         "Gun Skins",
         2
@@ -65,10 +65,10 @@
         "Stomp Effects",
         1
       ]
-    ]
+    }
   },
   "SORRY!": {
-    "Reward": [
+    "Reward": {
       [
         "Bullet Colors",
         1
@@ -89,10 +89,10 @@
         "Stomp Effects",
         1
       ]
-    ]
+    }
   },
   "OG DHAT!": {
-    "Reward": [
+    "Reward": {
       [
         "Bullet Colors",
         2
@@ -113,10 +113,10 @@
         "Stomp Effects",
         1
       ]
-    ]
+    }
   },
   "300FAV!": {
-    "Reward": [
+    "Reward": {
       [
         "Bullet Colors",
         1
@@ -137,10 +137,10 @@
         "Stomp Effects",
         3
       ]
-    ]
+    }
   },
   "secretcodefromblade!": {
-    "Reward": [
+    "Reward": {
       [
         "Bullet Colors",
         5
@@ -165,10 +165,10 @@
         "Stomp Effects",
         5
       ]
-    ]
+    }
   },
   "300LIKES!": {
-    "Reward": [
+    "Reward": {
       [
         "Bullet Colors",
         1
@@ -189,10 +189,10 @@
         "Stomp Effects",
         3
       ]
-    ]
+    }
   },
   "900MEMBERS!": {
-    "Reward": [
+    "Reward": {
       [
         "Bullet Colors",
         1
@@ -213,6 +213,6 @@
         "Stomp Effects",
         3
       ]
-    ]
+    }
   }
 }
