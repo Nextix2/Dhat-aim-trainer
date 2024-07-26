@@ -1,218 +1,83 @@
 {
   "80KVISITS!": {
     "Reward": {
-      [
-        "Bullet Colors",
-        1
-      ],
-      [
-        "Gun Skins",
-        2
-      ],
-      [
-        "Knife Skins",
-        2
-      ],
-      [
-        "Streak Tags",
-        5
-      ],
-      [
-        "Stomp Effects",
-        3
-      ]
+        "Bullet Colors": 1,
+        "Gun Skins":  2,
+        "Knife Skins": 2,
+        "Streak Tags": 5,
+        "Stomp Effects": 3
     }
   },
   "100KVISITS!": {
-    "Reward": {
-      [
-        "Bullet Colors",
-        1
-      ],
-      [
-        "Gun Skins",
-        2
-      ],
-      [
-        "Knife Skins",
-        2
-      ],
-      [
-        "Streak Tags",
-        5
-      ],
-      [
-        "Stomp Effects",
-        3
-      ]
+   "Reward": {
+        "Bullet Colors": 1,
+        "Gun Skins":  2,
+        "Knife Skins": 2,
+        "Streak Tags": 5,
+        "Stomp Effects": 3
     }
   },
   "FPSLAGFIXED!": {
     "Reward": {
-      [
-        "Gun Skins",
-        2
-      ],
-      [
-        "Knife Skins",
-        2
-      ],
-      [
-        "Streak Tags",
-        2
-      ],
-      [
-        "Stomp Effects",
-        1
-      ]
+        "Bullet Colors": 1,
+        "Gun Skins":  2,
+        "Knife Skins": 2,
+        "Streak Tags": 5,
+        "Stomp Effects": 3
     }
   },
   "SORRY!": {
-    "Reward": {
-      [
-        "Bullet Colors",
-        1
-      ],
-      [
-        "Gun Skins",
-        2
-      ],
-      [
-        "Knife Skins",
-        3
-      ],
-      [
-        "Streak Tags",
-        1
-      ],
-      [
-        "Stomp Effects",
-        1
-      ]
+   "Reward": {
+        "Bullet Colors": 1,
+        "Gun Skins":  2,
+        "Knife Skins": 2,
+        "Streak Tags": 5,
+        "Stomp Effects": 3
     }
   },
   "OG DHAT!": {
     "Reward": {
-      [
-        "Bullet Colors",
-        2
-      ],
-      [
-        "Streak Tags",
-        6
-      ],
-      [
-        "Gun Skins",
-        5
-      ],
-      [
-        "Knife Skins",
-        5
-      ],
-      [
-        "Stomp Effects",
-        1
-      ]
+        "Bullet Colors": 1,
+        "Gun Skins":  2,
+        "Knife Skins": 2,
+        "Streak Tags": 5,
+        "Stomp Effects": 3
     }
   },
   "300FAV!": {
     "Reward": {
-      [
-        "Bullet Colors",
-        1
-      ],
-      [
-        "Gun Skins",
-        2
-      ],
-      [
-        "Knife Skins",
-        2
-      ],
-      [
-        "Streak Tags",
-        5
-      ],
-      [
-        "Stomp Effects",
-        3
-      ]
+        "Bullet Colors": 1,
+        "Gun Skins":  2,
+        "Knife Skins": 2,
+        "Streak Tags": 5,
+        "Stomp Effects": 3
     }
   },
   "secretcodefromblade!": {
     "Reward": {
-      [
-        "Bullet Colors",
-        5
-      ],
-      [
-        "Gun Skins",
-        5
-      ],
-      [
-        "Knife Skins",
-        5
-      ],
-      [
-        "Auras",
-        5
-      ],
-      [
-        "Streak Tags",
-        5
-      ],
-      [
-        "Stomp Effects",
-        5
-      ]
+        "Bullet Colors": 1,
+        "Gun Skins":  2,
+        "Knife Skins": 2,
+        "Streak Tags": 5,
+        "Stomp Effects": 3
     }
   },
   "300LIKES!": {
-    "Reward": {
-      [
-        "Bullet Colors",
-        1
-      ],
-      [
-        "Gun Skins",
-        2
-      ],
-      [
-        "Knife Skins",
-        2
-      ],
-      [
-        "Streak Tags",
-        5
-      ],
-      [
-        "Stomp Effects",
-        3
-      ]
+   "Reward": {
+        "Bullet Colors": 1,
+        "Gun Skins":  2,
+        "Knife Skins": 2,
+        "Streak Tags": 5,
+        "Stomp Effects": 3
     }
   },
   "900MEMBERS!": {
     "Reward": {
-      [
-        "Bullet Colors",
-        1
-      ],
-      [
-        "Gun Skins",
-        2
-      ],
-      [
-        "Knife Skins",
-        2
-      ],
-      [
-        "Streak Tags",
-        5
-      ],
-      [
-        "Stomp Effects",
-        3
-      ]
+        "Bullet Colors": 1,
+        "Gun Skins":  2,
+        "Knife Skins": 2,
+        "Streak Tags": 5,
+        "Stomp Effects": 3
     }
   }
 }
