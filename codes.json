@@ -53,6 +53,12 @@
          "Stomp Effects":3
       }
    },
+    "GAMEMODES!":{
+      "Reward":{
+         "Flame Effects":1,
+         "RPG Explosion":1,
+      }
+   },
    "secretcodefromblade!":{
       "Reward":{
          "Bullet Colors":1,
